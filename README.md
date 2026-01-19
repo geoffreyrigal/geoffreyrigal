@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVnZmdsb3N5cGFxeHU4bDMzYnZ5YnZ5YnZ5YnZ5YnZ5YnZ5YnZ5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" alt="Coding GIF" width="100%" style="border-radius: 10px;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXpkdzFseTNodHV2OXJ2OTdlOXhiOXlzOGtkbGQydTB2YmphYXNuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XxpZy4BeDwPy93V9oF/giphy.gif" alt="Coding GIF" width="100%" style="border-radius: 10px;">
 </p>
 
 <h1 align="center">Hi 👋, I'm Geoffrey Rigal</h1>
