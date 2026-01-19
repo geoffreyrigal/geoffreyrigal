@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rigalgeoffrey19@gmail.com**
 
-- 📄 Know about my experiences [Vendeur Cariste chez Brico Depot Pavie](Vendeur Cariste chez Brico Depot Pavie)
+- 📄 Know about my experiences **Vendeur Cariste chez Brico Depot Pavie**
 
 - ⚡ Fun fact **Caces R489 Niveau 3 (still valid 4y)**
 
