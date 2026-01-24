@@ -1,6 +1,22 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVvZTN3dm1qYTRncG9vZmdyOTl0a244d3ZnMjBxZm5rMW94dHRuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Le5CunPDfqxDZxpjyK/giphy.gif" alt="Coding GIF" width="50%" style="border-radius: 15px;">
+  <div class="container">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVvZTN3dm1qYTRncG9vZmdyOTl0a244d3ZnMjBxZm5rMW94dHRuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Le5CunPDfqxDZxpjyK/giphy.gif" alt="Coding GIF" width="50%" style="border-radius: 15px;">
+  </div>
 </p>
+
+<style>
+  .container {
+    width: 300px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+  }
+  .container img {
+    position: absolute;
+    top: -50px;
+    left: -100px;
+  }
+</style>
 
 <h1 align="center">Hi 👋, I'm Geoffrey Rigal</h1>
 <h3 align="center">A french student in science computer</h3>
