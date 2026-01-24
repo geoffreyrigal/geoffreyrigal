@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVvZTN3dm1qYTRncG9vZmdyOTl0a244d3ZnMjBxZm5rMW94dHRuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Le5CunPDfqxDZxpjyK/giphy.gif" 
-       style="width:480px; height:100px; object-fit:cover; object-position:center; border-radius:10px;">
+       width="480" 
+       height="100" 
+       style="object-fit: cover; object-position: center; border-radius: 10px"
 </p>
 
 <h1 align="center">Hi 👋, I'm Geoffrey Rigal</h1>
