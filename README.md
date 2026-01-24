@@ -1,11 +1,13 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVvZTN3dm1qYTRncG9vZmdyOTl0a244d3ZnMjBxZm5rMW94dHRuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Le5CunPDfqxDZxpjyK/giphy.gif" 
-       width="480" 
-       height="100" 
-       style="object-fit: cover; object-position: center; border-radius: 10px"
+  <img 
+    src="https://images.weserv.nl/?url=media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVvZTN3dm1qYTRncG9vZmdyOTl0a244d3ZnMjBxZm5rMW94dHRuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Le5CunPDfqxDZxpjyK/giphy.gif&w=480&h=100&fit=cover&a=center" 
+    width="480" 
+    height="100" 
+    alt="Ferrari Banner"
+  >
 </p>
 
-<h1 align="center">Hi 👋, I'm Geoffrey Rigal</h1>
+<h1 align="center">Hi, I'm Geoffrey Rigal</h1>
 <h3 align="center">A french student in science computer</h3>
 
 - I’m currently working on [Remote_Data_LMU](https://github.com/geoffreyrigal/Remote_Data_LMU)
