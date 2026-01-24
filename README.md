@@ -1,6 +1,6 @@
 <p align="center">
   <div class="container">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVvZTN3dm1qYTRncG9vZmdyOTl0a244d3ZnMjBxZm5rMW94dHRuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Le5CunPDfqxDZxpjyK/giphy.gif" alt="Coding GIF" width="50%" style="border-radius: 15px;">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVvZTN3dm1qYTRncG9vZmdyOTl0a244d3ZnMjBxZm5rMW94dHRuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Le5CunPDfqxDZxpjyK/giphy.gif">
   </div>
 </p>
 
