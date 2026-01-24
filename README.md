@@ -1,9 +1,8 @@
 <p align="center">
   <img 
-    src="https://images.weserv.nl/?url=media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVvZTN3dm1qYTRncG9vZmdyOTl0a244d3ZnMjBxZm5rMW94dHRuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Le5CunPDfqxDZxpjyK/giphy.gif&w=480&h=100&fit=cover&a=center" 
+    src="ferrariwec_md.gif" 
     width="480" 
-    height="100" 
-    alt="Ferrari Banner"
+    height="100"
   >
 </p>
 
